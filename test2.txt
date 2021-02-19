@@ -1,0 +1,2 @@
+ini hanyafile yang saya buat untuk belajar git
+isi file ini dan yang satunya hanya sesuatu saja
