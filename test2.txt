@@ -1,2 +1,4 @@
+!ini ditulis di repolokal
 ini hanyafile yang saya buat untuk belajar git
 isi file ini dan yang satunya hanya sesuatu saja
+!ini ditulis di github
